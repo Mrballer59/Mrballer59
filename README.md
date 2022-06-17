@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 
 - 📫 How to reach me **Brandonjoseph7@hotmail.co.uk**
 
-- ⚡ Fun fact **I'm really good at Football**
+- ⚡ Fun fact  I love learing new technology and making cool apps & I'm really good at Football & Fifa 🎮 ⚽️
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
