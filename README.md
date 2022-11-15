@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h1 align="center">Hey 👋, I'm Brandon JOSEPH RAMIREZ</h1>
-<h2 align="center">I'm a young passionate frontend Developer</h2>
+<h2 align="center">I'm a young passionate Frontend Developer</h2>
 <br>
 
 - 🌱 I’m currently learning **React & React Native**
@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 
 - 📫 How to reach me **Brandonjoseph7@hotmail.co.uk**
 
-- ⚡ Fun fact  I love learing new technology and making cool apps & I'm really good at Football & Fifa 🎮 ⚽️
+- ⚡ Fun fact  I love learing new technology and making cool apps & I'm really good at Football & Fifa who would like a match? 🎮 ⚽️
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
