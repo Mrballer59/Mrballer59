@@ -15,16 +15,16 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h1 align="center">Hey 👋, I'm Brandon JOSEPH RAMIREZ</h1>
-<h2 align="center">I'm a young passionate Frontend Developer</h2>
+<h2 align="center">I'm a passionate Frontend Developer</h2>
 <br>
 
-- 🌱 I’m currently learning **React & React Native**
+- 👨🏽‍🏫 I’m currently learning **React Native & Node.js**
 
 - 💬 Ask me about **Technology 💻 & Football ⚽️**
 
-- 📫 How to reach me **Brandonjoseph7@hotmail.co.uk**
+- 📫 How to reach me **Brandon.jr.dev@gmail.com**
 
-- ⚡ Fun fact  I love learing new technology and making cool apps & I'm really good at Football & Fifa who would like a match? 🎮 ⚽️
+- ⚡ Fun fact I love learing new technology and making cool apps & I'm not too bad at Football & Fifa, if ever you want to challange me... let's have a  match? 🎮 ⚽️
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
