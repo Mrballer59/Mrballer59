@@ -18,13 +18,15 @@ Here are some ideas to get you started:
 <h2 align="center">I'm a passionate Frontend Developer</h2>
 <br>
 
-- 👨🏽‍🏫 I’m currently learning **React Native & Node.js**
+- 👨🏽‍🏫 I’m currently learning **Node.JS & React Native**
 
 - 💬 Ask me about **Technology 💻 & Football ⚽️**
 
 - 📫 How to reach me **Brandon.jr.dev@gmail.com**
 
 - ⚡ Fun fact I love learing new technology and making cool apps & I'm not too bad at Football & Fifa, if ever you want to challange me... let's have a  match? 🎮 ⚽️
+
+- 📂 Portfolio:  https://brandonjr-dev.netlify.app/
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
