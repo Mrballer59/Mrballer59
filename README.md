@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 
 - 📫 How to reach me **Brandon.jr.dev@gmail.com**
 
-- ⚡ Fun fact I love learing new technology and making cool apps & I'm not too bad at Football & Fifa, if ever you want to challange me... let's have a  match? 🎮 ⚽️
+- ⚡ Fun fact I love learing new technologies and making cool web and mobile apps. & I'm not too bad at Football && Fifa, if ever you want to challange me dm me your tagName? 🎮 ⚽️
 
 - 📂 Portfolio:  https://brandonjr-dev.netlify.app/
 
