@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 <h2 align="center">I'm a passionate Frontend Developer</h2>
 <br>
 
-- 👨🏽‍🏫 I’m currently learning **Node.JS & React Native**
+- 👨🏽‍🏫 I’m currently learning **Node.JS & ios development**
 
 - 💬 Ask me about **Technology 💻 & Football ⚽️**
 
