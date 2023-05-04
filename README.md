@@ -15,10 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h1 align="center">Hey 👋, I'm Brandon JOSEPH RAMIREZ</h1>
-<h2 align="center">I'm a passionate Frontend Developer</h2>
+<h2 align="center">I'm a passionate Frontend Developer <br/>Transitioning into FullStack Development </h2>
 <br>
 
-- 👨🏽‍🏫 I’m currently learning **Node.JS & ios development**
+- 👨🏽‍🏫 I’m currently learning **Node.JS & ios Development**
 
 - 💬 Ask me about **Technology 💻 & Football ⚽️**
 
