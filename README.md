@@ -15,18 +15,17 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h1 align="center">Hey 👋, I'm Brandon JOSEPH RAMIREZ</h1>
-<h2 align="center">I'm a passionate Frontend Developer <br/>Transitioning into FullStack Development </h2>
+<h2 align="center">I'm a passionate FullStack Developer </h2>
 <br>
 
-- 👨🏽‍🏫 I’m currently learning **Node.JS & ios Development**
+- 👨🏽‍🏫 I’m currently coding with  **Node.JS & React + NextJS**
 
 - 💬 Ask me about **Technology 💻 & Football ⚽️**
 
 - 📫 How to reach me **Brandon.jr.dev@gmail.com**
 
-- ⚡ Fun fact I love learing new technologies and making cool web and mobile apps. & I'm not too bad at Football && Fifa, if ever you want to challange me dm me your tagName? 🎮 ⚽️
+- ⚡ Fun fact I love learing new technologies and making cool web and mobile apps. 
 
-- 📂 Portfolio:  https://brandonjr-dev.netlify.app/
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
